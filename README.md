@@ -4,7 +4,7 @@ Analysis of a *C. elegans* lifespan prediction method based on a multimodal neur
 ![GitHub Logo](https://github.com/AntonioGarciaGarvi/CelegansLifespanPrediction/blob/main/pipeline.png)
 
 ## *C. elegans* lifespan demo 
-Run the demo [google colab](https://github.com/AntonioGarciaGarvi/CelegansLifespanPrediction/blob/main/CelegansLifespanPredictionDemo.ipynb).
+Run the demo in [google colab](https://github.com/AntonioGarciaGarvi/CelegansLifespanPrediction/blob/main/CelegansLifespanPredictionDemo.ipynb).
 In this demo you can see an example of how our model uses the
 sequence of images and the count of live *C. elegans* up to the current day to predict the lifespan curve
 termination. 
